@@ -1,9 +1,25 @@
-.row{
-  text-align:center;
+.row {
+  text-align: center;
   
 }
-#choices{
-  display:flex;
-  justify-content:space-between;
+
+#choices {
+  display: flex;
+  justify-content: space-between;
   
+}
+
+#shoot {
+  width: 60px;
+  height: 36px;
+  background: #595959;
+  color: white;
+}
+
+#shoot:hover {
+  background: #666666;
+}
+
+img {
+  width: 100%;
 }
